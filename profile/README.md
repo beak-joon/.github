@@ -5,11 +5,11 @@
 
 ## Rank
 
-* **SYB** : 소마코테 통과 (2/28) <img src ="http://mazassumnida.wtf/api/mini/generate_badge?boj=sinobin">
+<img src ="http://mazassumnida.wtf/api/mini/generate_badge?boj=sinobin"> **SYB** : 소마코테 통과 (2/28) 
 
-* **YJS** : 입대 전까지 뭐라도하자 -> 플레를 찍자  <img src ="http://mazassumnida.wtf/api/mini/generate_badge?boj=angej777">
+<img src ="http://mazassumnida.wtf/api/mini/generate_badge?boj=angej777"> **YJS** : 입대 전까지 뭐라도하자 -> 플레를 찍자
 
-* **YHY** : 간지나게 골드를 찍자 <img src ="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghduf0820">
+<img src ="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghduf0820"> **YHY** : 간지나게 골드를 찍자
 
 ## 벌금산정
 
