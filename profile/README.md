@@ -5,7 +5,7 @@
 
 ## Rank
 
-<img src ="http://mazassumnida.wtf/api/mini/generate_badge?boj=sinobi">   **SYB** : 소마코테 통과 (2/28) 
+<img src ="http://mazassumnida.wtf/api/mini/generate_badge?boj=sinobin">   **SYB** : 소마코테 통과 (2/28) 
 
 <img src ="http://mazassumnida.wtf/api/mini/generate_badge?boj=angej777">   **YJS** : 입대 전까지 뭐라도하자 -> 플레를 찍자
 
